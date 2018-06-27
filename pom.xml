@@ -50,7 +50,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jvnet.mimepull</groupId>
     <artifactId>mimepull</artifactId>
-    <version>1.9.8-starplus</version>
+    <version>2.9.8-starplus</version>
     <packaging>jar</packaging>
 
     <name>MIME streaming extension</name>
